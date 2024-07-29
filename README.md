@@ -1,1 +1,1 @@
-# MedAGI
+# MedPodAI
